@@ -1,10 +1,11 @@
-### Hi there wave
+### Hi there !!!
 
 Glad to see you here! 🧐
 👨🏻‍💻
 
 <img alt="github-profile-logo" src="./assets/undraw_version_control_9bpv.svg" />
 
+- 📁  [link to Portfolio](https://sampreeth-portfolio.netlify.app/)
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me:

@@ -2,6 +2,9 @@
 
 Glad to see you here! 🧐
 👨🏻‍💻
+
+<img alt="github-profile-logo" src="./assets/undraw_version_control_9bpv.svg" />
+
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on ...

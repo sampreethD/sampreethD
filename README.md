@@ -7,7 +7,8 @@ Glad to see you here! 🧐
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Reactjs
-- 📫 How to reach me: 
+- 📫 How to reach me:
+</br>
 <a href="https://www.linkedin.com/in/sampreeth-d-1258897b">
   <img align="left" alt="SampreethD - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>

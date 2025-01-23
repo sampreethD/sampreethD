@@ -3,7 +3,7 @@
 Glad to see you here! 🧐
 👨🏻‍💻
 
-<img alt="github-profile-logo" src="./assets/programmer.svg" />
+<img alt="github-profile-logo" src="./assets/coder.svg" />
 
 - 📁  [link to Portfolio](https://sampreeth-portfolio.netlify.app/)
 - 🔭 I’m currently working on Angular
